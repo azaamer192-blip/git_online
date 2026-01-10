@@ -5,7 +5,6 @@ import 'package:islami/utils/app_routes.dart';
 void main() {
   runApp(MyApp());
 }
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
